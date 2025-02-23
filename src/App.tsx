@@ -12,7 +12,7 @@ export function App() {
         <img src={reactLogo} alt="React Logo" className="logo react-logo" />
       </div>
 
-      <h1>Bun + React</h1>
+      <h1>Bun + React + Cloudflare Pages</h1>
       <p>
         Edit <code>src/App.tsx</code> and save to test HMR
       </p>
